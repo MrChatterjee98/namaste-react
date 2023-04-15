@@ -1,0 +1,17 @@
+body,
+html {
+  background-color: wheat;
+  height: 100%;
+}
+.tittle-metadata {
+  color: aqua;
+  background-color: blueviolet;
+}
+
+#root {
+  height: 100%;
+  box-sizing: border-box;
+  text-align: center;
+  justify-content: center;
+  background-color: chocolate;
+}
